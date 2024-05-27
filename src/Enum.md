@@ -25,8 +25,7 @@ de valores.</p>
     <h4>Estados Brasileiros: </h4> <p style="color: #010101;">São Paulo, Rio de Janeiro, Piauí, Maranhão</p>
 </div>
 
-> [!NOTE]
-> <span>Não confunda uma lista de constantes com enum.</span>
+> [!CAUTION] <span>Não confunda uma lista de constantes com enum.</span>
 </section>
 
 
