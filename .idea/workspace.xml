@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lanchonete/Estabelecimento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lanchonete/area/cliente/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lanchonete/atendimento/Atendente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lanchonete/atendimento/cozinha/Almoxarife.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lanchonete/atendimento/cozinha/Cozinheiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/escola/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/escola/Escola.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Construtores" />
+                    <option name="lastUsedInstant" value="1716842890" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="GetterSetter" />
+                    <option name="lastUsedInstant" value="1716842889" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -44,12 +66,13 @@
     "Application.Estabelecimento.executor": "Run",
     "Application.Lanchonete.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.SistemaCadastro.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "GetterSetter",
+    "git-widget-placeholder": "Construtores",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/java-exemplos",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,7 +80,7 @@
       <recent name="lanchonete.atendimento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Escola">
+  <component name="RunManager" selected="Application.SistemaCadastro">
     <configuration name="Escola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="escola.Escola" />
       <module name="java-exemplos" />
@@ -91,8 +114,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemaCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pessoa.SistemaCadastro" />
+      <module name="java-exemplos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pessoa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaCadastro" />
         <item itemvalue="Application.Escola" />
         <item itemvalue="Application.Estabelecimento" />
         <item itemvalue="Application.Main" />
