@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="" />
+    <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enum.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enum.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -70,6 +74,7 @@
     "Application.Lanchonete.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SistemaCadastro.executor": "Run",
+    "Application.SistemaIbge.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Enums",
@@ -83,7 +88,7 @@
       <recent name="lanchonete.atendimento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SistemaCadastro">
+  <component name="RunManager" selected="Application.SistemaIbge">
     <configuration name="Escola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="escola.Escola" />
       <module name="java-exemplos" />
@@ -130,8 +135,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemaIbge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaIbge" />
+      <module name="java-exemplos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaIbge" />
         <item itemvalue="Application.SistemaCadastro" />
         <item itemvalue="Application.Escola" />
         <item itemvalue="Application.Estabelecimento" />

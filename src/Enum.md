@@ -29,5 +29,49 @@ de valores.</p>
 > <span>Não confunda uma lista de constantes com enum.</span>
 </section>
 
+<p>Enquanto uma constante é uma variável de tipo com o valor imutável, um enum 
+é um conjunto de objetos já pré-definidos na aplicação.</p>
+
+<p>Como um enum é um conjunto de objetos, logo, estes objetos podem conter atributos
+e métodos. Veja o exemplo acima de um enum para disponibilizar os quatro estados 
+brasileiros citados acima, contendo informações de: Nome, Sigla e um método que pega
+o nome de cada estado e já retorna tudo em maiúsculo.</p>
+
+``` Java
+    public enum EstadoBrasileiro {
+    SAO_PAULO("SP", "São Paulo", 11),
+    RIO_JANEIRO("RJ", "Rio de Janeiro", 12),
+    PIAUI("PI", "Piauí", 13),
+    MARANHAO("MA", "Maranhão", 14),
+    CEARA("CE", "Ceará", 15);
+
+    private String sigla;
+    private String nome;
+    private int ibge;
+
+    EstadoBrasileiro(String sigla, String nome, int ibge) {
+        this.sigla = sigla;
+        this.nome = nome;
+        this.ibge = ibge;
+    }
+
+    public int getIbge() {
+        return ibge;
+    }
+
+    public String getSigla() {
+        return sigla;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getNomeMaiuculo() {
+        return this.nome.toUpperCase();
+    }
+}
+     
+```
 
 
