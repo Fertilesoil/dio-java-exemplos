@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstadoBrasileiro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemaIbge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carro/Autodromo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carro/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carro/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carro/Veiculo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Encapsulamento" />
+                    <option name="lastUsedInstant" value="1716904201" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="PilaresPoo" />
                     <option name="lastUsedInstant" value="1716902558" />
@@ -84,7 +89,7 @@
     "Application.SistemaIbge.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "PilaresPoo",
+    "git-widget-placeholder": "Encapsulamento",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/java-exemplos",
     "settings.editor.selected.configurable": "preferences.lookFeel"
