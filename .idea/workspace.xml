@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstadoBrasileiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemaIbge.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="PilaresPoo" />
+                    <option name="lastUsedInstant" value="1716902558" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="Enums" />
                     <option name="lastUsedInstant" value="1716843872" />
@@ -69,6 +75,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Autodromo.executor": "Run",
     "Application.Escola.executor": "Run",
     "Application.Estabelecimento.executor": "Run",
     "Application.Lanchonete.executor": "Run",
@@ -77,7 +84,7 @@
     "Application.SistemaIbge.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Enums",
+    "git-widget-placeholder": "PilaresPoo",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/java-exemplos",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -88,7 +95,20 @@
       <recent name="lanchonete.atendimento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SistemaIbge">
+  <component name="RunManager" selected="Application.Autodromo">
+    <configuration name="Autodromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="carro.Autodromo" />
+      <module name="java-exemplos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Escola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="escola.Escola" />
       <module name="java-exemplos" />
@@ -115,13 +135,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java-exemplos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SistemaCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pessoa.SistemaCadastro" />
       <module name="java-exemplos" />
@@ -144,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Autodromo" />
         <item itemvalue="Application.SistemaIbge" />
         <item itemvalue="Application.SistemaCadastro" />
         <item itemvalue="Application.Escola" />
         <item itemvalue="Application.Estabelecimento" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
