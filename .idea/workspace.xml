@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FacebookMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FacebookMessenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MSNMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MSNMessenger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Mensageiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mensageiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mensagens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mensagens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Telegram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Telegram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="Polimorfismo" />
+                    <option name="lastUsedInstant" value="1716907086" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="Abstracao" />
                     <option name="lastUsedInstant" value="1716906605" />
                   </RecentBranch>
@@ -47,10 +56,6 @@
                   <RecentBranch>
                     <option name="branchName" value="PilaresPoo" />
                     <option name="lastUsedInstant" value="1716902558" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="Enums" />
-                    <option name="lastUsedInstant" value="1716843872" />
                   </RecentBranch>
                 </list>
               </option>
@@ -87,7 +92,7 @@
     "Application.SistemaIbge.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Abstracao",
+    "git-widget-placeholder": "Polimorfismo",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/java-exemplos",
     "settings.editor.selected.configurable": "preferences.lookFeel"
