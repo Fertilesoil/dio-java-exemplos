@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carro/Autodromo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carro/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carro/Moto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carro/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MSNMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MSNMessenger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +34,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="Heranca" />
+                    <option name="lastUsedInstant" value="1716904716" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="Encapsulamento" />
                     <option name="lastUsedInstant" value="1716904201" />
                   </RecentBranch>
@@ -50,10 +52,6 @@
                   <RecentBranch>
                     <option name="branchName" value="Construtores" />
                     <option name="lastUsedInstant" value="1716842890" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="GetterSetter" />
-                    <option name="lastUsedInstant" value="1716842889" />
                   </RecentBranch>
                 </list>
               </option>
@@ -85,11 +83,12 @@
     "Application.Estabelecimento.executor": "Run",
     "Application.Lanchonete.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mensagens.executor": "Run",
     "Application.SistemaCadastro.executor": "Run",
     "Application.SistemaIbge.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Encapsulamento",
+    "git-widget-placeholder": "Heranca",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/java-exemplos",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -100,7 +99,7 @@
       <recent name="lanchonete.atendimento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Autodromo">
+  <component name="RunManager" selected="Application.Mensagens">
     <configuration name="Autodromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="carro.Autodromo" />
       <module name="java-exemplos" />
@@ -127,15 +126,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Estabelecimento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lanchonete.Estabelecimento" />
+    <configuration name="Mensagens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mensagens" />
       <module name="java-exemplos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lanchonete.area.cliente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mensagens" />
         <item itemvalue="Application.Autodromo" />
         <item itemvalue="Application.SistemaIbge" />
         <item itemvalue="Application.SistemaCadastro" />
         <item itemvalue="Application.Escola" />
-        <item itemvalue="Application.Estabelecimento" />
       </list>
     </recent_temporary>
   </component>
