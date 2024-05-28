@@ -6,11 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="04cd4aba-fe76-4e46-bd7f-a743a6eec822" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FacebookMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FacebookMessenger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MSNMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MSNMessenger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mensageiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mensageiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mensagens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mensagens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Telegram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Telegram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mensagens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/FacebookMessenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/MSNMessenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/Mensageiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/Telegram.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="Interface" />
+                    <option name="lastUsedInstant" value="1716908573" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="Polimorfismo" />
                     <option name="lastUsedInstant" value="1716907086" />
                   </RecentBranch>
@@ -52,10 +56,6 @@
                   <RecentBranch>
                     <option name="branchName" value="Encapsulamento" />
                     <option name="lastUsedInstant" value="1716904201" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="PilaresPoo" />
-                    <option name="lastUsedInstant" value="1716902558" />
                   </RecentBranch>
                 </list>
               </option>
@@ -85,14 +85,16 @@
     "Application.Autodromo.executor": "Run",
     "Application.Escola.executor": "Run",
     "Application.Estabelecimento.executor": "Run",
+    "Application.Fabrica.executor": "Run",
     "Application.Lanchonete.executor": "Run",
+    "Application.Loja.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mensagens.executor": "Run",
     "Application.SistemaCadastro.executor": "Run",
     "Application.SistemaIbge.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Polimorfismo",
+    "git-widget-placeholder": "Interface",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/java-exemplos",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -103,7 +105,7 @@
       <recent name="lanchonete.atendimento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mensagens">
+  <component name="RunManager" selected="Application.Fabrica">
     <configuration name="Autodromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="carro.Autodromo" />
       <module name="java-exemplos" />
@@ -117,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="escola.Escola" />
+    <configuration name="Fabrica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equipamentos.estabelecimento.Fabrica" />
       <module name="java-exemplos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="escola.*" />
+          <option name="PATTERN" value="equipamentos.estabelecimento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fabrica" />
         <item itemvalue="Application.Mensagens" />
         <item itemvalue="Application.Autodromo" />
         <item itemvalue="Application.SistemaIbge" />
         <item itemvalue="Application.SistemaCadastro" />
-        <item itemvalue="Application.Escola" />
       </list>
     </recent_temporary>
   </component>
